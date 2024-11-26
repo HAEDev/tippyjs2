@@ -1,0 +1,8 @@
+{
+  "name": "haedev/tippyjs",
+  "exportName": "haedev/tippyjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haedev/tippyjs.git"
+  }
+}
